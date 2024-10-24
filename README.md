@@ -8,3 +8,5 @@ Configuração para desenvolvimento em distros derivadas do debian
 - baixa o sdkmn
 - baixa o golang
 - baixa o docker
+- baixa o dotnet
+- baixa o wireguard
